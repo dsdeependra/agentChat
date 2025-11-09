@@ -1,0 +1,21 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic
+
+# LangChain and OpenAI
+langchain
+langchain-openai
+langchain-community
+openai
+
+# Vector Store
+chromadb
+
+# Tavily Search
+tavily-python
+
+# Additional utilities
+numpy
+tiktoken
